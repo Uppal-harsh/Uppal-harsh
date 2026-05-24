@@ -2,7 +2,7 @@
 <!-- Drop this into Uppal-harsh/Uppal-harsh/README.md -->
 
 <h1 align="center">
-  Hey, I'm Harsh! 👋
+  Hey, I'm Harsh Uppal! 👋
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+AI-powered+apps+with+Python+%26+TypeScript;Turning+caffeine+into+commits+since+day+1;Currently+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+AI-powered+apps+with+Mern/Next.js+%26+Python+%26+TypeScript;Turning+caffeine+into+commits+since+day+1;Currently+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ tech i reach for
+## 🛠️ Tech I've reached for : 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 github stats
+## 📊 Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uppal-harsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -58,16 +58,15 @@
 
 ---
 
-## 📬 find me
+## 📬 Find me
 
 <p align="left">
   <a href="https://github.com/Uppal-harsh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn / Twitter / Portfolio below ↓ -->
-  <!-- <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="https://linkedin.com/in/harsh-uppal-5a0b14373">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  </a>
 </p>
 
 ---
