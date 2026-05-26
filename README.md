@@ -22,6 +22,7 @@
 | [**yolo_no_parking_zone**](https://github.com/Uppal-harsh/yolo_no_parking_zone) | Automated license plate detection & no-parking enforcement with YOLOv8 + EasyOCR | `Python` `YOLOv8` |
 | [**invage-main**](https://github.com/Uppal-harsh/invage-main) | Role-based inventory ops dashboard with AI voice assistant | `TypeScript` `Next.js` `Supabase` |
 | [**fusion**](https://github.com/Uppal-harsh/fusion) | Multi-AI platform that queries several models at once & blends the best response | `TypeScript` |
+| [**Portfolio**](https://github.com/Uppal-harsh/Portfolio) | Personal portfolio website showcasing projects & skills | `TypeScript` `Next.js` |
 
 ---
 
@@ -59,6 +60,9 @@
   </a>
   <a href="https://linkedin.com/in/harsh-uppal-5a0b14373">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-delta-flame-66.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
