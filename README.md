@@ -1,47 +1,32 @@
-```{=html}
 <h1 align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Uppal+%F0%9F%91%8B;I+build+AI+products+that+ship.;CSE+%40+BML+Munjal+University.;Full-Stack+%7C+AI+%7C+Backend;Turning+ideas+into+working+software." alt="Typing SVG" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Uppal+%F0%9F%91%8B;I+build+AI+products+that+ship.;CSE+%40+BML+Munjal+University.;Full-Stack+%7C+AI+%7C+Backend;Turning+ideas+into+working+software." alt="Typing SVG" />
 </h1>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Uppal-harsh&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views" />`{=html}
-`<img src="https://img.shields.io/github/followers/Uppal-harsh?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=58A6FF" alt="Followers" />`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=Uppal-harsh&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Uppal-harsh?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=58A6FF" alt="Followers" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://linkedin.com/in/harsh-uppal-5a0b14373">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}
-`</a>`{=html}
-`<a href="https://portfolio-delta-flame-66.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}
-`</a>`{=html} `<a href="mailto:you@example.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://linkedin.com/in/harsh-uppal-5a0b14373">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-delta-flame-66.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-```
-`<br>`{=html}
 
-```{=html}
+<br>
+
 <p align="center">
-```
-`<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />`{=html}
-```{=html}
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
-```
 
-------------------------------------------------------------------------
+$ whoami
 
-## `$ whoami`
-
-``` text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   HARSH UPPAL                                                │
@@ -55,28 +40,21 @@
 │   I build things with them.                                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
 
-I'm a Computer Science student building **AI products from zero to
-production** --- from freelance systems for local businesses to SaaS
-products and hackathon builds.
+I'm a Computer Science student building AI products from zero to production — from freelance systems for local businesses to SaaS products and hackathon builds.
 
-My sweet spot is where **AI meets useful software**:
+My sweet spot is where AI meets useful software:
 
-`LLMs` → `APIs` → `Backend` → `Database` → `Frontend` → `Production`
+LLMs → APIs → Backend → Database → Frontend → Production
 
-------------------------------------------------------------------------
+⚡ Currently Building
 
-## ⚡ Currently Building
+🤖 Jawaab AI
 
-### 🤖 Jawaab AI
+AI WhatsApp infrastructure for Indian SMBs
 
-> **AI WhatsApp infrastructure for Indian SMBs**
+An AI assistant that handles inbound conversations so businesses don't have to.
 
-An AI assistant that handles inbound conversations so businesses don't
-have to.
-
-``` text
 Customer
    │
    ▼
@@ -93,267 +71,215 @@ Jawaab AI
            │
            ▼
         Business
-```
 
-**Stack**
+Stack
 
-`Claude` `Meta Business API` `React` `Express` `Supabase`
+Claude Meta Business API React Express Supabase
 
-------------------------------------------------------------------------
+🚀 Selected Work
 
-# 🚀 Selected Work
-
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-### 📈 FinStock
 
-AI-powered Indian stock research platform combining live market data
-with intelligent analysis.
+📈 FinStock
 
-**Highlights**
+AI-powered Indian stock research platform combining live market data with intelligent analysis.
 
--   Smart stock scoring
--   AI research assistant
--   Live market data
--   Financial analysis
+Highlights
 
-`Python` `FastAPI` `Next.js` `PostgreSQL`
+Smart stock scoring
 
-`<br>`{=html}
+AI research assistant
 
-`<a href="https://github.com/Uppal-harsh/FinStock">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+Live market data
 
-```{=html}
+Financial analysis
+
+Python FastAPI Next.js PostgreSQL
+
+<br>
+
+<a href="https://github.com/Uppal-harsh/FinStock">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
+
 <td width="50%">
-```
-### 📦 Invage
 
-Role-based inventory operations platform with an AI voice agent and
-real-time synchronization.
+📦 Invage
 
-**Highlights**
+Role-based inventory operations platform with an AI voice agent and real-time synchronization.
 
--   Role-based access
--   AI voice interaction
--   Real-time updates
--   Inventory management
+Highlights
 
-`TypeScript` `Next.js` `Supabase`
+Role-based access
 
-`<br>`{=html}
+AI voice interaction
 
-`<a href="https://github.com/Uppal-harsh/invage-main">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+Real-time updates
 
-```{=html}
+Inventory management
+
+TypeScript Next.js Supabase
+
+<br>
+
+<a href="https://github.com/Uppal-harsh/invage-main">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-### 🚗 Driver Wellness
+
+🚗 Driver Wellness
 
 Real-time driver drowsiness detection using facial landmark tracking.
 
-**Highlights**
+Highlights
 
--   Real-time computer vision
--   Facial landmark analysis
--   Driver safety monitoring
+Real-time computer vision
 
-`Python` `OpenCV` `dlib`
+Facial landmark analysis
 
-`<br>`{=html}
+Driver safety monitoring
 
-`<a href="https://github.com/Uppal-harsh/driver-wellness">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+Python OpenCV dlib
 
-```{=html}
+<br>
+
+<a href="https://github.com/Uppal-harsh/driver-wellness">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
+
 <td width="50%">
-```
-### 🚫 YOLO No Parking Zone
 
-Computer vision system for automated license-plate detection and
-no-parking enforcement.
+🚫 YOLO No Parking Zone
 
-**Highlights**
+Computer vision system for automated license-plate detection and no-parking enforcement.
 
--   YOLOv8 detection
--   License plate OCR
--   Automated enforcement pipeline
+Highlights
 
-`Python` `YOLOv8` `EasyOCR`
+YOLOv8 detection
 
-`<br>`{=html}
+License plate OCR
 
-`<a href="https://github.com/Uppal-harsh/yolo_no_parking_zone">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+Automated enforcement pipeline
 
-```{=html}
+Python YOLOv8 EasyOCR
+
+<br>
+
+<a href="https://github.com/Uppal-harsh/yolo_no_parking_zone">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-### 🧠 Fusion
 
-Query multiple LLMs simultaneously and combine their responses into a
-stronger final answer.
+🧠 Fusion
 
-`TypeScript`
+Query multiple LLMs simultaneously and combine their responses into a stronger final answer.
 
-`<br>`{=html}
+TypeScript
 
-`<a href="https://github.com/Uppal-harsh/fusion">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+<br>
 
-```{=html}
+<a href="https://github.com/Uppal-harsh/fusion">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
+
 <td width="50%">
-```
-### 📱 SpecMatch
 
-Live device-spec comparison engine that recommends the right device
-based on user requirements.
+📱 SpecMatch
 
-`JavaScript` `Next.js`
+Live device-spec comparison engine that recommends the right device based on user requirements.
 
-`<br>`{=html}
+JavaScript Next.js
 
-`<a href="https://github.com/Uppal-harsh/SpecMatch-main">`{=html}
-`<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+<br>
 
-```{=html}
+<a href="https://github.com/Uppal-harsh/SpecMatch-main">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+🏆 Things I've Shipped
 
-# 🏆 Things I've Shipped
-
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-PS--1%20Hackathon-FFD700?style=for-the-badge" />`{=html}
 
-`<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-Hacked%204.0-FFD700?style=for-the-badge" />`{=html}
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-PS--1%20Hackathon-FFD700?style=for-the-badge" />
 
-`<img src="https://img.shields.io/badge/%F0%9F%8F%85%20Finalist-Automate%20India-58A6FF?style=for-the-badge" />`{=html}
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-Hacked%204.0-FFD700?style=for-the-badge" />
 
-`<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Freelance-Production%20Projects-58A6FF?style=for-the-badge" />`{=html}
+<img src="https://img.shields.io/badge/%F0%9F%8F%85%20Finalist-Automate%20India-58A6FF?style=for-the-badge" />
 
-`<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-Product%20Builder-8B5CF6?style=for-the-badge" />`{=html}
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Freelance-Production%20Projects-58A6FF?style=for-the-badge" />
 
-```{=html}
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-Product%20Builder-8B5CF6?style=for-the-badge" />
+
 </p>
-```
-### 🥇 PS-1 Hackathon --- 1st Place
 
-Won **1st place at the Xebia PS-1 Hackathon**.
+🥇 PS-1 Hackathon — 1st Place
 
-### 🥇 Hacked 4.0 --- 1st Place
+Won 1st place at the Xebia PS-1 Hackathon.
 
-Won **1st place at Hacked 4.0**.
+🥇 Hacked 4.0 — 1st Place
 
-### 🏅 Automate India --- Finalist
+Won 1st place at Hacked 4.0.
 
-Reached the **finalist round of Automate India**, presenting
-**BeejMantra**, an AI + Blockchain-powered digital platform focused on
-transparency, verification, and accessibility for Indian farmers.
+🏅 Automate India — Finalist
 
-### 💼 Freelance Development
+Reached the finalist round of Automate India, presenting BeejMantra, an AI + Blockchain-powered digital platform focused on transparency, verification, and accessibility for Indian farmers.
 
-Built and delivered production websites and systems for **local
-businesses and coaching institutes**, covering everything from lead
-scraping to deployment.
+💼 Freelance Development
+
+Built and delivered production websites and systems for local businesses and coaching institutes, covering everything from lead scraping to deployment.
 
 Typical project value:
 
-``` text
 ₹50K ─────────────── ₹1L+
-```
 
-------------------------------------------------------------------------
+🛠️ Tech Arsenal
 
-# 🛠️ Tech Arsenal
+Languages
 
-### Languages
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />
 </p>
-```
-### Frontend
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />`{=html}
-```{=html}
-</p>
-```
-### Backend & Data
+Frontend
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,redis" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
-```
-### AI / Computer Vision
 
-```{=html}
+Backend & Data
+
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=opencv" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,redis" />
 </p>
-```
-``` text
+
+AI / Computer Vision
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
 AI
 ├── LLM Applications
 ├── RAG
@@ -368,53 +294,35 @@ Backend
 ├── Real-time Systems
 ├── Databases
 └── Distributed Services
-```
 
-------------------------------------------------------------------------
+📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
-```{=html}
 <p align="center">
-```
-`<img
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Uppal-harsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     width="49%"
-  />`{=html} `<img
+  />
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Uppal-harsh&theme=tokyonight&hide_border=true"
     width="49%"
-  />`{=html}
-```{=html}
+  />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uppal-harsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
     width="42%"
-  />`{=html}
-```{=html}
+  />
 </p>
-```
 
-------------------------------------------------------------------------
+📈 Contribution Activity
 
-# 📈 Contribution Activity
-
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uppal-harsh&theme=tokyo-night&hide_border=true&area=true" width="95%" />`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uppal-harsh&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
-```
 
-------------------------------------------------------------------------
+🧩 How I Build
 
-# 🧩 How I Build
-
-``` text
              IDEA
               │
               ▼
@@ -443,16 +351,11 @@ Backend
         ┌─────────────┐
         │ Iterate     │
         └─────────────┘
-```
 
-I care less about collecting frameworks and more about **turning an idea
-into something people can actually use.**
+I care less about collecting frameworks and more about turning an idea into something people can actually use.
 
-------------------------------------------------------------------------
+🔥 Current Focus
 
-# 🔥 Current Focus
-
-``` text
 AI Agents                 ████████████████████  90%
 Full-Stack Development    ███████████████████  85%
 Backend Systems            ██████████████████   80%
@@ -460,27 +363,29 @@ LLM Applications            █████████████████ 
 Computer Vision             ██████████████       65%
 System Design               █████████████        60%
 DevOps / Infrastructure     ███████████          50%
-```
 
-------------------------------------------------------------------------
+🧠 Areas I'm Exploring
 
-# 🧠 Areas I'm Exploring
+AI agents & autonomous workflows
 
--   AI agents & autonomous workflows
--   LLM application architecture
--   Backend systems
--   Distributed systems
--   Real-time applications
--   Computer vision
--   Developer tooling
--   SaaS architecture
--   AI automation for businesses
+LLM application architecture
 
-------------------------------------------------------------------------
+Backend systems
 
-# 💻 My GitHub Philosophy
+Distributed systems
 
-``` python
+Real-time applications
+
+Computer vision
+
+Developer tooling
+
+SaaS architecture
+
+AI automation for businesses
+
+💻 My GitHub Philosophy
+
 while True:
     idea = find_problem()
 
@@ -489,53 +394,35 @@ while True:
         ship()
         learn()
         iterate()
-```
 
-------------------------------------------------------------------------
+🌐 Find Me
 
-# 🌐 Find Me
-
-```{=html}
 <p align="center">
-```
-`<a href="https://linkedin.com/in/harsh-uppal-5a0b14373">`{=html}
-`<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
 
-`<a href="https://portfolio-delta-flame-66.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}
-`</a>`{=html}
+<a href="https://linkedin.com/in/harsh-uppal-5a0b14373">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-`<a href="https://github.com/Uppal-harsh">`{=html}
-`<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+<a href="https://portfolio-delta-flame-66.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-```{=html}
+<a href="https://github.com/Uppal-harsh">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
-```
 
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"/>`{=html}
 
-```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}Build fast. Ship often. Make useful things.`</b>`{=html}
-```{=html}
+  <b>Build fast. Ship often. Make useful things.</b>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<sub>`{=html}© Harsh Uppal · Built with code, curiosity & too much
-caffeine.`</sub>`{=html}
-```{=html}
+  <sub>© Harsh Uppal · Built with code, curiosity & too much caffeine.</sub>
 </p>
-```
