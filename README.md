@@ -25,8 +25,11 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-$ whoami
+---
 
+## `$ whoami`
+
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   HARSH UPPAL                                                │
@@ -40,21 +43,25 @@ $ whoami
 │   I build things with them.                                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
 
-I'm a Computer Science student building AI products from zero to production — from freelance systems for local businesses to SaaS products and hackathon builds.
+I'm a Computer Science student building **AI products from zero to production** — from freelance systems for local businesses to SaaS products and hackathon builds.
 
-My sweet spot is where AI meets useful software:
+My sweet spot is where **AI meets useful software**:
 
-LLMs → APIs → Backend → Database → Frontend → Production
+`LLMs` → `APIs` → `Backend` → `Database` → `Frontend` → `Production`
 
-⚡ Currently Building
+---
 
-🤖 Jawaab AI
+## ⚡ Currently Building
 
-AI WhatsApp infrastructure for Indian SMBs
+### 🤖 Jawaab AI
+
+> **AI WhatsApp infrastructure for Indian SMBs**
 
 An AI assistant that handles inbound conversations so businesses don't have to.
 
+```text
 Customer
    │
    ▼
@@ -71,32 +78,32 @@ Jawaab AI
            │
            ▼
         Business
+```
 
-Stack
+**Stack**
 
-Claude Meta Business API React Express Supabase
+`Claude` `Meta Business API` `React` `Express` `Supabase`
 
-🚀 Selected Work
+---
+
+# 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%">
 
-📈 FinStock
+### 📈 FinStock
 
 AI-powered Indian stock research platform combining live market data with intelligent analysis.
 
-Highlights
+**Highlights**
 
-Smart stock scoring
+* Smart stock scoring
+* AI research assistant
+* Live market data
+* Financial analysis
 
-AI research assistant
-
-Live market data
-
-Financial analysis
-
-Python FastAPI Next.js PostgreSQL
+`Python` `FastAPI` `Next.js` `PostgreSQL`
 
 <br>
 
@@ -108,21 +115,18 @@ Python FastAPI Next.js PostgreSQL
 
 <td width="50%">
 
-📦 Invage
+### 📦 Invage
 
 Role-based inventory operations platform with an AI voice agent and real-time synchronization.
 
-Highlights
+**Highlights**
 
-Role-based access
+* Role-based access
+* AI voice interaction
+* Real-time updates
+* Inventory management
 
-AI voice interaction
-
-Real-time updates
-
-Inventory management
-
-TypeScript Next.js Supabase
+`TypeScript` `Next.js` `Supabase`
 
 <br>
 
@@ -136,19 +140,17 @@ TypeScript Next.js Supabase
 <tr>
 <td width="50%">
 
-🚗 Driver Wellness
+### 🚗 Driver Wellness
 
 Real-time driver drowsiness detection using facial landmark tracking.
 
-Highlights
+**Highlights**
 
-Real-time computer vision
+* Real-time computer vision
+* Facial landmark analysis
+* Driver safety monitoring
 
-Facial landmark analysis
-
-Driver safety monitoring
-
-Python OpenCV dlib
+`Python` `OpenCV` `dlib`
 
 <br>
 
@@ -160,19 +162,17 @@ Python OpenCV dlib
 
 <td width="50%">
 
-🚫 YOLO No Parking Zone
+### 🚫 YOLO No Parking Zone
 
 Computer vision system for automated license-plate detection and no-parking enforcement.
 
-Highlights
+**Highlights**
 
-YOLOv8 detection
+* YOLOv8 detection
+* License plate OCR
+* Automated enforcement pipeline
 
-License plate OCR
-
-Automated enforcement pipeline
-
-Python YOLOv8 EasyOCR
+`Python` `YOLOv8` `EasyOCR`
 
 <br>
 
@@ -186,11 +186,11 @@ Python YOLOv8 EasyOCR
 <tr>
 <td width="50%">
 
-🧠 Fusion
+### 🧠 Fusion
 
 Query multiple LLMs simultaneously and combine their responses into a stronger final answer.
 
-TypeScript
+`TypeScript`
 
 <br>
 
@@ -202,11 +202,11 @@ TypeScript
 
 <td width="50%">
 
-📱 SpecMatch
+### 📱 SpecMatch
 
 Live device-spec comparison engine that recommends the right device based on user requirements.
 
-JavaScript Next.js
+`JavaScript` `Next.js`
 
 <br>
 
@@ -218,7 +218,9 @@ JavaScript Next.js
 </tr>
 </table>
 
-🏆 Things I've Shipped
+---
+
+# 🏆 Things I've Shipped
 
 <p align="center">
 
@@ -234,52 +236,57 @@ JavaScript Next.js
 
 </p>
 
-🥇 PS-1 Hackathon — 1st Place
+### 🥇 PS-1 Hackathon — 1st Place
 
-Won 1st place at the Xebia PS-1 Hackathon.
+Won **1st place at the Xebia PS-1 Hackathon**.
 
-🥇 Hacked 4.0 — 1st Place
+### 🥇 Hacked 4.0 — 1st Place
 
-Won 1st place at Hacked 4.0.
+Won **1st place at Hacked 4.0**.
 
-🏅 Automate India — Finalist
+### 🏅 Automate India — Finalist
 
-Reached the finalist round of Automate India, presenting BeejMantra, an AI + Blockchain-powered digital platform focused on transparency, verification, and accessibility for Indian farmers.
+Reached the **finalist round of Automate India**, presenting **BeejMantra**, an AI + Blockchain-powered digital platform focused on transparency, verification, and accessibility for Indian farmers.
 
-💼 Freelance Development
+### 💼 Freelance Development
 
-Built and delivered production websites and systems for local businesses and coaching institutes, covering everything from lead scraping to deployment.
+Built and delivered production websites and systems for **local businesses and coaching institutes**, covering everything from lead scraping to deployment.
 
 Typical project value:
 
+```text
 ₹50K ─────────────── ₹1L+
+```
 
-🛠️ Tech Arsenal
+---
 
-Languages
+# 🛠️ Tech Arsenal
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />
 </p>
 
-Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
-Backend & Data
+### Backend & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,redis" />
 </p>
 
-AI / Computer Vision
+### AI / Computer Vision
 
 <p>
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
+```text
 AI
 ├── LLM Applications
 ├── RAG
@@ -294,8 +301,11 @@ Backend
 ├── Real-time Systems
 ├── Databases
 └── Distributed Services
+```
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -315,14 +325,19 @@ Backend
   />
 </p>
 
-📈 Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uppal-harsh&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
-🧩 How I Build
+---
 
+# 🧩 How I Build
+
+```text
              IDEA
               │
               ▼
@@ -351,11 +366,15 @@ Backend
         ┌─────────────┐
         │ Iterate     │
         └─────────────┘
+```
 
-I care less about collecting frameworks and more about turning an idea into something people can actually use.
+I care less about collecting frameworks and more about **turning an idea into something people can actually use.**
 
-🔥 Current Focus
+---
 
+# 🔥 Current Focus
+
+```text
 AI Agents                 ████████████████████  90%
 Full-Stack Development    ███████████████████  85%
 Backend Systems            ██████████████████   80%
@@ -363,29 +382,27 @@ LLM Applications            █████████████████ 
 Computer Vision             ██████████████       65%
 System Design               █████████████        60%
 DevOps / Infrastructure     ███████████          50%
+```
 
-🧠 Areas I'm Exploring
+---
 
-AI agents & autonomous workflows
+# 🧠 Areas I'm Exploring
 
-LLM application architecture
+* AI agents & autonomous workflows
+* LLM application architecture
+* Backend systems
+* Distributed systems
+* Real-time applications
+* Computer vision
+* Developer tooling
+* SaaS architecture
+* AI automation for businesses
 
-Backend systems
+---
 
-Distributed systems
+# 💻 My GitHub Philosophy
 
-Real-time applications
-
-Computer vision
-
-Developer tooling
-
-SaaS architecture
-
-AI automation for businesses
-
-💻 My GitHub Philosophy
-
+```python
 while True:
     idea = find_problem()
 
@@ -394,8 +411,11 @@ while True:
         ship()
         learn()
         iterate()
+```
 
-🌐 Find Me
+---
+
+# 🌐 Find Me
 
 <p align="center">
 
@@ -412,6 +432,8 @@ while True:
 </a>
 
 </p>
+
+---
 
 <p align="center">
 
